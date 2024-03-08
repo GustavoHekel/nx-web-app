@@ -1,1 +1,0 @@
-{"kind":"FETCH","data":{"headers":{"connection":"keep-alive","content-length":"27","content-type":"application/json; charset=utf-8","date":"Tue, 29 Aug 2023 01:54:20 GMT","etag":"W/\"1b-0x4e+Qld2y/0IuOGHHkcTJ1m7J0\"","keep-alive":"timeout=5","x-powered-by":"Express"},"body":"eyJhZ2UiOjM0LCJuYW1lIjoiR3VzdGF2byJ9","status":200,"tags":["/page"]},"revalidate":31536000}
